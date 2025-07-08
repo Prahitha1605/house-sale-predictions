@@ -1,0 +1,1 @@
+{"data_columns": ["area", "int_sqft", "n_bedroom", "n_bathroom", "sale_cond", "park_facil", "buildtype", "street", "mzzone", "qs_rooms", "qs_bathroom", "qs_bedroom", "property_age", "area_price_level", "bedroom_sqft_ratio", "bathroom_sqft_ratio"]}
